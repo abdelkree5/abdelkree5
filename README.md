@@ -16,7 +16,7 @@
 📧 **mostafa.elsharqawi@gmail.com**  
 📱 **+20 127 691 3999**  
 🔗 **LinkedIn:** https://linkedin.com/in/mostafa-ali-elsharqawi  
-🔗 **GitHub:** https://github.com/mostafa0076  
+🔗 **GitHub:** https://github.com/mstfyshrqawy520-alt  
 🌐 **Portfolio:** https://mostafa0076.github.io/My-Portfolio-by-html-css/
 
 ---
