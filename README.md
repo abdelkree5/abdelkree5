@@ -1,132 +1,202 @@
-<!-- HEADER -->
+<!-- ================= PROFESSIONAL AI ENGINEER PROFILE ================= -->
+
 <p align="center">
-  <p align="center">
-  <img src="https://github.com/mostafa0076/mostafa0076/blob/main/ChatGPT Image 13 يناير 2026، 08_24_29 م.png" alt="Mostafa Elsharqawi Banner" width="100%">
-</p>
-  <p align="center">
-
-</p>
+  <img src="https://github.com/mostafa0076/mostafa0076/blob/main/ChatGPT Image 13 يناير 2026، 08_24_29 م.png" width="100%" />
 </p>
 
----
+<h1 align="center">Mostafa Ali Mohamed Elsharqawi</h1>
+<h3 align="center">AI Engineer | Multimodal Systems | LLMs | Computer Vision | Speech AI</h3>
 
-# 🧑‍💻 **Mostafa Ali Mohamed Elsharqawi**
-
-📍 **Menoufia, Egypt**  
-📧 **mostafa.elsharqawi@gmail.com**  
-📱 **+20 127 691 3999**  
-🔗 **LinkedIn:** https://linkedin.com/in/mostafa-ali-elsharqawi  
-🔗 **GitHub:** https://github.com/mstfyshrqawy520-alt  
-🌐 **Portfolio:** https://mostafa0076.github.io/My-Portfolio-by-html-css/
-
----
-
-# 🚀 **About Me**
-I am a **Junior Machine Learning Engineer** with hands-on experience in building, training, and deploying **Machine Learning** and **Deep Learning** models.  
-Skilled in **NLP, Computer Vision, model optimization, and cloud deployment**.
-
-🔥 Achievements:  
-- Improved ML model accuracy by **15%**  
-- Boosted performance optimization by **20%**  
-- Delivered production-ready models using **Flask, Streamlit & Docker**
+<p align="center">
+  <a href="https://linkedin.com/in/mostafa-ali-elsharqawi">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/mstfyshrqawy520-alt">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github">
+  </a>
+  <a href="https://mostafa0076.github.io/My-Portfolio-by-html-css/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-green?style=flat-square&logo=google-chrome">
+  </a>
+</p>
 
 ---
 
-# 🧠 **Technical Skills**
+## Executive Summary
 
-### 💻 Programming  
-`Python` • `Java` • `C++` • `JavaScript` • `HTML` • `CSS`
+AI Engineer specialized in designing, fine-tuning, and deploying intelligent systems across multiple modalities including text, vision, and speech.
 
-### 🤖 Machine Learning  
-`TensorFlow` • `PyTorch` • `Scikit-learn` • `Deep Learning`
+Experienced in:
+- End-to-end ML pipelines
+- Transformer-based architectures
+- Large Language Model fine-tuning
+- Vision & Speech model adaptation
+- Production deployment (Flask, Streamlit, Docker)
+- Performance optimization & model evaluation
 
-### 🧬 NLP  
-`Text Classification` • `NER` • `Sentiment Analysis` • `Chatbots`
-
-### 👁️ Computer Vision  
-`YOLO` • `OpenCV` • `Image Segmentation` • `Classification`
-
-### 📊 Data Analysis  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-
-### ☁️ Cloud & DevOps  
-`AWS` • `Azure` • `Docker` • `Kubernetes` • `GitHub Actions`
-
-### 🧰 Tools  
-`Flask` • `Streamlit` • `Jupyter` • `Git`
+Focused on building scalable, modular, and production-ready AI systems.
 
 ---
 
-# 💼 **Experience & Projects**
-
-### 🔹 Heart Disease Prediction — *90% Accuracy*  
-- ML model with Scikit-learn + feature engineering  
-- Deployed using **Streamlit**  
-- Led team at **NTI Grant**
-
-### 🔹 Wine Quality Prediction — *+15% Accuracy Improvement*  
-- Built & optimized ML regression system  
-- Deployed using **Flask**  
-- ITI Team Project
-
-### 🔹 Spam vs Ham Classifier — *86% Accuracy*  
-- NLP model using TF-IDF + Logistic Regression  
-- Deployed via Streamlit  
-- Led NLP sprint team
-
-### 🔹 Java Data Processing App — *20% Faster*  
-- Designed using OOP principles  
-- Boosted efficiency of data pipelines
+# Core Engineering Domains
 
 ---
 
-# 🎓 **Education**
-**B.Sc in Computer Science (AI Track)**  
-Egyptian e-Learning University (EELU), Cairo  
-📅 *Expected Graduation: June 2026*
+## 1. Machine Learning Systems Engineering
+
+- Airline Delay Prediction (Real-world dataset modeling)
+- Heart Disease Prediction (90% accuracy)
+- Wine Quality Optimization (+15% performance gain)
+- Credit Risk Modeling
+- House Rent Prediction (ANN)
+- Customer Segmentation (Clustering Techniques)
+
+Engineering Focus:
+- Feature engineering
+- Model comparison
+- Hyperparameter tuning
+- Performance optimization
+- Deployment pipelines
 
 ---
 
-# 🏅 **Certifications**
-- ITI: Artificial Intelligence & Machine Learning (2025)  
-- NTI x ITIDA: Machine Learning Track (120 hours)  
-- Sprints x Microsoft: AI Summer Camp  
-- Datacamp: Machine Learning  
-- NVIDIA: Deep Learning (2025)  
-- Cisco CCNA: Intro to AI  
-- Cisco CCNA: Switching & Routing
+## 2. Deep Learning & Generative Modeling
+
+- GAN Implementation from Scratch (PyTorch)
+- CNN Classification Architectures
+- Multi-Class Neural Networks
+- Transfer Learning & Fine-Tuning
+- Vision Transformer adaptation
+
+Engineering Focus:
+- Custom training loops
+- Gradient flow control
+- Loss balancing
+- Stability optimization
+- Model architecture modification
 
 ---
 
-# 🌱 **Professional Development**
-Attended hackathons, AI workshops, cloud training, and ML research groups.  
-Constantly improving expertise in **AI, MLOps, CV, NLP & Cloud**.
+## 3. Computer Vision Systems
+
+- Multi-task Vision (Classification • Detection • Segmentation)
+- Fine-Tuning Vision Transformers
+- Real-time Face, Eye & Smile Detection
+- Car & Pedestrian Detection
+- Hand Tracking (Lucas-Kanade Optical Flow)
+- Blur Detection (Laplacian Variance)
+- Gesture-Controlled Automation System
+
+Engineering Focus:
+- Real-time processing
+- Classical CV + Deep Learning hybrid systems
+- Inference optimization
+- Transformer-based detection models
 
 ---
 
-# 🌐 **Languages**
-- **Arabic:** Native  
-- **English:** Fluent  
+## 4. Speech AI & Audio Systems
 
+- Whisper-based Speech Recognition (ASR)
+- Text-to-Speech Audio Generation
+- Fine-Tuning TTS Models
+- Audio preprocessing pipelines
 
-
-# 💼 **Featured Projects**
-
-### 🔥 **🔗 Airline Delay Prediction**  
-> ML model predicting delays with real-world dataset  
-https://github.com/mostafa0076/Airline_Delay_Cause2
-
-### 🔥 **🔗 Car Detection (Computer Vision)**  
-> Object detection using classical CV  
-https://github.com/mostafa0076/carDetection
-
-### 🔥 **🔗 ML Projects Collection**  
-> Jupyter notebooks for various ML tasks  
-https://github.com/mostafa0076/ML-Projects
+Engineering Focus:
+- Spectrogram processing
+- Transformer-based speech modeling
+- Dataset adaptation
+- Inference acceleration
 
 ---
 
-# 🖤 **Thank You for Visiting My Profile**
+## 5. Large Language Models & Multimodal AI
+
+- GPT Fine-Tuning (Causal Language Modeling)
+- Multimodal Transformer Exploration
+- Hugging Face Model Navigation System
+- NLP Dashboard with Multi-Task Interface
+- AI Game Character Designer (Text-to-Image)
+- Image Captioning Systems
+
+Engineering Focus:
+- Tokenization strategies
+- Instruction tuning
+- API-based inference pipelines
+- Modular multimodal integration
+- Prompt engineering
+
+---
+
+# Technical Stack
+
+Programming:
+Python • Java • C++ • JavaScript
+
+Machine Learning:
+Scikit-learn • XGBoost • Pandas • NumPy
+
+Deep Learning:
+PyTorch • TensorFlow • CNN • GAN • Transformers
+
+LLM & NLP:
+Hugging Face • GPT Fine-Tuning • Tokenizers • PEFT
+
+Computer Vision:
+OpenCV • YOLO • Vision Transformers • DETR • SegFormer
+
+Speech AI:
+Whisper • Torchaudio • Librosa • TTS Models
+
+Deployment & DevOps:
+Flask • Streamlit • Docker • GitHub Actions • AWS • Azure
+
+---
+
+# Engineering Mindset
+
+- System-first thinking
+- Modular architecture design
+- Performance benchmarking
+- Experiment tracking
+- Reproducible ML pipelines
+- Deployment-ready AI systems
+- Multimodal integration
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa0076&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa0076&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa0076&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+# Education
+
+B.Sc in Computer Science (AI Track)  
+Egyptian e-Learning University (EELU)  
+Expected Graduation: June 2026  
+
+---
+
+# Certifications
+
+ITI – Artificial Intelligence & Machine Learning  
+NTI x ITIDA – Machine Learning Track  
+NVIDIA – Deep Learning  
+Cisco – Introduction to AI  
+Datacamp – Machine Learning  
+
+---
+
+<h3 align="center">Building Scalable AI Systems Across Modalities</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafa0076&label=Profile+Views&color=0bd3d3&style=flat" />
 </p>
