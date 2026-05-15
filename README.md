@@ -8,10 +8,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mostafa-ali-elsharqawi">
+  <a href="https://linkedin.com/in/mostafa-el-sharqawi-66b3a7352">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://mostafa0076.github.io/My-Portfolio-by-html-css/">
+  <a href="https://mstfyshrqawy520-alt.github.io/my-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=google-chrome">
   </a>
   <a href="mailto:mstfyshrqawy520@gmail.com">
