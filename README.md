@@ -1,6 +1,6 @@
 <!-- ================= PROFESSIONAL AI ENGINEER PROFILE ================= -->
 <p align="center">
-  <img src="profile_banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/abdelkree5/abdelkree5/main/profile_banner.png" width="100%" />
 </p>
 
 <h1 align="center">
