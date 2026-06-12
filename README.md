@@ -1,10 +1,10 @@
 <!-- ================= PROFESSIONAL AI ENGINEER PROFILE ================= -->
 <p align="center">
-  <img src="https://github.com/Abdelkreem0076/Abdelkreem0076/blob/main/ChatGPT%20Image%2013%20%D9%8A%D9%86%D8%A7%D9%8A%D8%B1%202026%D8%8C%2008_24_29%20%D9%85.png" width="100%" />
+  <img src="profile_banner.png" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0BD3D3&center=true&vCenter=true&width=500&lines=Abdelkreem+Ali+Frahat;AI+Engineer;Multimodal+Systems+Specialist;LLM+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0BD3D3&center=true&vCenter=true&width=500&lines=Abdelkreem+Frahat;AI+Engineer;Multimodal+Systems+Specialist;LLM+Architect" alt="Typing SVG" />
 </h1>
 
 <p align="center">
